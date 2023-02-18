@@ -1,4 +1,4 @@
-# C++ based OpenGL renderer
+# Grid Drawer
 
 ## Intution
 
